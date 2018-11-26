@@ -7,6 +7,10 @@
   border-color:#314776;
 }
 .btn-pinterest{
-  bakcground:#b62f26;
+  background:#b62f26;
   border-color:#b62f26;
+}
+
+body{
+  background image: url("../images/bgimage.jpg")
 }
