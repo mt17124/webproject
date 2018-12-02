@@ -1,0 +1,21 @@
+.btn-twitter{
+  background:#00acee;
+  border-color:#009ad5;
+}
+.btn-facebook{
+  background:#004868ac;
+  border-color:#314776;
+}
+.btn-pinterest{
+  bakcground:#b62f26;
+  border-color:#b62f26;
+}
+body
+{background-image:
+url( "../images/bgimage.jpg")}
+
+.background
+{opacity: 1;
+  margin-top: 80px;
+  margin-left: 40px;
+}
